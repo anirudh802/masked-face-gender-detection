@@ -28,12 +28,15 @@ and decided to use that as the final model.
 
 the two datasets i used are stored in 
 1. halfFace_A face covering mask dataset of South Asian people
-2. face
+2. face (its labels are stored in text.txt file)
+
+also the two ipynb files are for the two different datasets
+1. the facetask is the first attempt with face dataset
+2. the final facetask is the next attempt with the halfface dataset
 
 #### model in action
 
-
-
+![img](https://github.com/anirudh802/masked-face-gender-detection/blob/main/Screenshot%20from%202024-05-23%2021-48-47.png)
 
 #### running the model
 
